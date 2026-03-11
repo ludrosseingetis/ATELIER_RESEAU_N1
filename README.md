@@ -56,7 +56,7 @@ Vous pouvez observez les différentes couches OSI sur votre site **{site}.python
 **Exercice 1 : Définissez les termes suivants (Répondre directement dans GitHub)**    
 * Un protocole, un ensemble de règles qui permettent d'encadrer et de standardiser des actions
 * Une entité protocolaire,
-* Un service,  
+* Un service,  un service est une fonctionnalité mise à disposition par un composant logiciel pour assurer une tâche particulière.
 * Une primitive de service,  
 * Une Service Data Unit (SDU) par rapport à une PDU  
 * Un point d'accès à un service SAP (Service Access Point)  
