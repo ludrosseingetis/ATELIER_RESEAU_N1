@@ -57,7 +57,7 @@ Vous pouvez observez les différentes couches OSI sur votre site **{site}.python
 * Un protocole, un ensemble de règles qui permettent d'encadrer et de standardiser des actions
 * Une entité protocolaire,
 * Un service,  un service est une fonctionnalité mise à disposition par un composant logiciel pour assurer une tâche particulière.
-* Une primitive de service,  
+* Une primitive de service,   C'est une opération qui permet à une couche de solliciter les services d'une couche inférieur ou supérieur
 * Une Service Data Unit (SDU) par rapport à une PDU  
 * Un point d'accès à un service SAP (Service Access Point)  
 
